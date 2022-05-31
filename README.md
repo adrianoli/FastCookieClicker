@@ -1,0 +1,2 @@
+# FastCookieClicker
+Created with CodeSandbox
